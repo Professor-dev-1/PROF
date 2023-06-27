@@ -1,5 +1,4 @@
-
-<html><head><title>ASATECH LIMITED</title>
+<html>
 <link type="text/css"
  rel="stylesheet"
 href="stylesheet.css">
